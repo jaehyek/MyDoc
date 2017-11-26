@@ -1,0 +1,6 @@
+
+>>> Blog : 아마추어 퀀드 ( Amateur Quant )
+    http://blog.naver.com/PostList.nhn?blogId=chunjein
+
+>>> 파이썬으로 배우는 알고리즘 트레이딩 : 조대표, 유부장
+    https://wikidocs.net/book/110
